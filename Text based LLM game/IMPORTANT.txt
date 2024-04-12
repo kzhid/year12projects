@@ -1,0 +1,3 @@
+Since i got a new PC, the file paths arent accurate, and iv realised i need a much higher level understanding of LLMs, Python and will 
+need to learn SQL. project on hold until i finish A-levels. most of this code doesnt really work as im new to python, however iv learnt
+a significant amount and learnt how to debug well.
